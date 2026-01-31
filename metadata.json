@@ -1,0 +1,5 @@
+{
+  "name": "ThermoTutor AI",
+  "description": "An AI-powered Thermodynamics tutor for NP LSCT students offering targeted revision from student materials or expanded practice topics.",
+  "requestFramePermissions": []
+}
